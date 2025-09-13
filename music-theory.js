@@ -327,10 +327,10 @@ class MusicTheory {
                 // Interval colors defined in intervals object
             },
             dark: {
-                background: '#222222',
-                strings: '#AAAAAA',
-                frets: '#666666',
-                markers: '#DDDDDD',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF5252',
                     'b2': '#FF7F50',
@@ -347,10 +347,10 @@ class MusicTheory {
                 }
             },
             colorful: {
-                background: '#F5F5F5',
-                strings: '#555555',
-                frets: '#333333',
-                markers: '#000000',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#E53935',
                     'b2': '#FB8C00',
@@ -367,10 +367,10 @@ class MusicTheory {
                 }
             },
             ocean: {
-                background: '#E0F7FA',
-                strings: '#0277BD',
-                frets: '#01579B',
-                markers: '#006064',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#00BCD4',
                     'b2': '#0097A7',
@@ -387,10 +387,10 @@ class MusicTheory {
                 }
             },
             forest: {
-                background: '#E8F5E9',
-                strings: '#2E7D32',
-                frets: '#1B5E20',
-                markers: '#33691E',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',                
                 intervals: {
                     '1': '#4CAF50',
                     'b2': '#43A047',
@@ -407,10 +407,10 @@ class MusicTheory {
                 }
             },
             sunset: {
-                background: '#FFF3E0',
-                strings: '#FF8F00',
-                frets: '#F57F17',
-                markers: '#FF6F00',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFC107',
                     'b2': '#FFB300',
@@ -427,10 +427,10 @@ class MusicTheory {
                 }
             },
             lavender: {
-                background: '#F3E5F5',
-                strings: '#6A1B9A',
-                frets: '#4A148C',
-                markers: '#7B1FA2',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#9C27B0',
                     'b2': '#8E24AA',
@@ -447,10 +447,10 @@ class MusicTheory {
                 }
             },
             autumn: {
-                background: '#FBE9E7',
-                strings: '#BF360C',
-                frets: '#8D6E63',
-                markers: '#5D4037',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#795548',
                     'b2': '#6D4C41',
@@ -467,10 +467,10 @@ class MusicTheory {
                 }
             },
             pastel: {
-                background: '#FAFAFA',
-                strings: '#90A4AE',
-                frets: '#607D8B',
-                markers: '#455A64',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFCDD2',
                     'b2': '#F8BBD0',
@@ -487,10 +487,10 @@ class MusicTheory {
                 }
             },
             neon: {
-                background: '#212121',
-                strings: '#484848',
-                frets: '#303030',
-                markers: '#757575',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF1744',
                     'b2': '#F50057',
@@ -507,10 +507,10 @@ class MusicTheory {
                 }
             },
             monoRed: {
-                background: '#FFEBEE',
-                strings: '#E53935',
-                frets: '#C62828',
-                markers: '#B71C1C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#EF9A9A',
                     'b2': '#E57373',
@@ -527,10 +527,10 @@ class MusicTheory {
                 }
             },
             monoBlue: {
-                background: '#E3F2FD',
-                strings: '#1976D2',
-                frets: '#1565C0',
-                markers: '#0D47A1',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#90CAF9',
                     'b2': '#64B5F6',
@@ -547,10 +547,10 @@ class MusicTheory {
                 }
             },
             monoGreen: {
-                background: '#E8F5E9',
-                strings: '#388E3C',
-                frets: '#2E7D32',
-                markers: '#1B5E20',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#A5D6A7',
                     'b2': '#81C784',
@@ -567,10 +567,10 @@ class MusicTheory {
                 }
             },
             grayscale: {
-                background: '#FAFAFA',
-                strings: '#616161',
-                frets: '#424242',
-                markers: '#212121',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F5F5F5',
                     'b2': '#EEEEEE',
@@ -588,9 +588,9 @@ class MusicTheory {
             },
             blackAndWhite: {
                 background: '#FFFFFF',
-                strings: '#000000',
-                frets: '#000000',
-                markers: '#000000',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#000000',
                     'b2': '#333333',
@@ -607,10 +607,10 @@ class MusicTheory {
                 }
             },
             vintage: {
-                background: '#FFF8E1',
-                strings: '#8D6E63',
-                frets: '#6D4C41',
-                markers: '#5D4037',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#D7CCC8',
                     'b2': '#BCAAA4',
@@ -628,9 +628,9 @@ class MusicTheory {
             },
             beach: {
                 background: '#FFFFFF',
-                strings: '#00838F',
-                frets: '#006064',
-                markers: '#00695C',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFF9C4',
                     'b2': '#FFF59D',
@@ -648,9 +648,9 @@ class MusicTheory {
             },
             rainbow: {
                 background: '#FFFFFF',
-                strings: '#616161',
-                frets: '#424242',
-                markers: '#212121',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F44336',
                     'b2': '#FF9800',
@@ -667,10 +667,10 @@ class MusicTheory {
                 }
             },
             desert: {
-                background: '#FFFDE7',
-                strings: '#FF8F00',
-                frets: '#F57F17',
-                markers: '#FF6F00',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFC107',
                     'b2': '#FFB300',
@@ -687,10 +687,10 @@ class MusicTheory {
                 }
             },
             retro: {
-                background: '#ECEFF1',
-                strings: '#607D8B',
-                frets: '#455A64',
-                markers: '#37474F',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#B0BEC5',
                     'b2': '#90A4AE',
@@ -707,10 +707,10 @@ class MusicTheory {
                 }
             },
             mint: {
-                background: '#E0F2F1',
-                strings: '#00897B',
-                frets: '#00796B',
-                markers: '#00695C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#80CBC4',
                     'b2': '#4DB6AC',
@@ -727,10 +727,10 @@ class MusicTheory {
                 }
             },
             cherry: {
-                background: '#FCE4EC',
-                strings: '#C2185B',
-                frets: '#AD1457',
-                markers: '#880E4F',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F8BBD0',
                     'b2': '#F48FB1',
@@ -747,10 +747,10 @@ class MusicTheory {
                 }
             },
             deepOcean: {
-                background: '#E8EAF6',
-                strings: '#303F9F',
-                frets: '#283593',
-                markers: '#1A237E',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#9FA8DA',
                     'b2': '#7986CB',
@@ -767,10 +767,10 @@ class MusicTheory {
                 }
             },
             coral: {
-                background: '#FFEBEE',
-                strings: '#FFD54F',
-                frets: '#E65100',
-                markers: '#FFECB3',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFCDD2',
                     'b2': '#EF9A9A',
@@ -787,10 +787,10 @@ class MusicTheory {
                 }
             },
             goldAndBlack: {
-                background: '#212121',
-                strings: '#FFC107',
-                frets: '#FFB300',
-                markers: '#FFA000',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFD740',
                     'b2': '#FFC400',
@@ -807,10 +807,10 @@ class MusicTheory {
                 }
             },
             purpleHaze: {
-                background: '#EDE7F6',
-                strings: '#7B1FA2',
-                frets: '#6A1B9A',
-                markers: '#4A148C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#D1C4E9',
                     'b2': '#B39DDB',
@@ -827,10 +827,10 @@ class MusicTheory {
                 }
             },
             earthTones: {
-                background: '#EFEBE9',
-                strings: '#5D4037',
-                frets: '#4E342E',
-                markers: '#3E2723',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#D7CCC8',
                     'b2': '#BCAAA4',
@@ -848,9 +848,9 @@ class MusicTheory {
             },
             vibrant: {
                 background: '#FFFFFF',
-                strings: '#212121',
-                frets: '#424242',
-                markers: '#616161',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F44336',
                     'b2': '#E91E63',
@@ -867,10 +867,10 @@ class MusicTheory {
                 }
             },
             cosmic: {
-                background: '#20204F',
-                strings: '#7E7EFF',
-                frets: '#AEAEFF',
-                markers: '#FFFFFF',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF518C',
                     'b2': '#FF73B3',
@@ -887,10 +887,10 @@ class MusicTheory {
                 }
             },
             coffee: {
-                background: '#EFEBE9',
-                strings: '#5D4037',
-                frets: '#4E342E',
-                markers: '#3E2723',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#D7CCC8',
                     'b2': '#BCAAA4',
@@ -907,10 +907,10 @@ class MusicTheory {
                 }
             },
             candy: {
-                background: '#FCE4EC',
-                strings: '#EC407A',
-                frets: '#D81B60',
-                markers: '#C2185B',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F8BBD0',
                     'b2': '#F48FB1',
@@ -927,10 +927,10 @@ class MusicTheory {
                 }
             },
             emerald: {
-                background: '#E8F5E9',
-                strings: '#43A047',
-                frets: '#388E3C',
-                markers: '#2E7D32',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#C8E6C9',
                     'b2': '#A5D6A7',
@@ -947,10 +947,10 @@ class MusicTheory {
                 }
             },
             muted: {
-                background: '#ECEFF1',
-                strings: '#78909C',
-                frets: '#607D8B',
-                markers: '#546E7A',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#CFD8DC',
                     'b2': '#B0BEC5',
@@ -967,10 +967,10 @@ class MusicTheory {
                 }
             },
             iceCream: {
-                background: '#FFF3E0',
-                strings: '#FFB74D',
-                frets: '#FFA726',
-                markers: '#FF9800',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFF8E1',
                     'b2': '#FFECB3',
@@ -987,10 +987,10 @@ class MusicTheory {
                 }
             },
             blueberry: {
-                background: '#E3F2FD',
-                strings: '#1976D2',
-                frets: '#1565C0',
-                markers: '#0D47A1',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#BBDEFB',
                     'b2': '#90CAF9',
@@ -1007,10 +1007,10 @@ class MusicTheory {
                 }
             },
             midnight: {
-                background: '#01579B',
-                strings: '#0288D1',
-                frets: '#29B6F6',
-                markers: '#B3E5FC',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#B3E5FC',
                     'b2': '#81D4FA',
@@ -1027,10 +1027,10 @@ class MusicTheory {
                 }
             },
             sunrise: {
-                background: '#FFF8E1',
-                strings: '#FF9800',
-                frets: '#FF7043',
-                markers: '#FF5722',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFECB3',
                     'b2': '#FFE082',
@@ -1047,10 +1047,10 @@ class MusicTheory {
                 }
             },
             redWine: {
-                background: '#FFEBEE',
-                strings: '#B71C1C',
-                frets: '#7B1FA2',
-                markers: '#4A148C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#EF9A9A',
                     'b2': '#E57373',
@@ -1067,10 +1067,10 @@ class MusicTheory {
                 }
             },
             seaGreen: {
-                background: '#E0F7FA',
-                strings: '#00BCD4',
-                frets: '#0097A7',
-                markers: '#006064',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#B2EBF2',
                     'b2': '#80DEEA',
@@ -1087,10 +1087,10 @@ class MusicTheory {
                 }
             },
             teal: {
-                background: '#E0F2F1',
-                strings: '#00695C',
-                frets: '#004D40',
-                markers: '#009688',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#B2DFDB',
                     'b2': '#80CBC4',
@@ -1107,10 +1107,10 @@ class MusicTheory {
                 }
             },
             amber: {
-                background: '#FFF8E1',
-                strings: '#FFB300',
-                frets: '#FF8F00',
-                markers: '#FF6F00',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFECB3',
                     'b2': '#FFE082',
@@ -1127,10 +1127,10 @@ class MusicTheory {
                 }
             },
             cyberpunk: {
-                background: '#000000',
-                strings: '#FF00FF',
-                frets: '#00FFFF',
-                markers: '#FFFF00',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF00FF',
                     'b2': '#CC00FF',
@@ -1147,10 +1147,10 @@ class MusicTheory {
                 }
             },
             bubblegum: {
-                background: '#FFDCF2',
-                strings: '#FF4D94',
-                frets: '#FF1A75',
-                markers: '#E6005C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFB3DD',
                     'b2': '#FF99D1',
@@ -1167,10 +1167,10 @@ class MusicTheory {
                 }
             },
             fireAndIce: {
-                background: '#200122',
-                strings: '#6A82FB',
-                frets: '#FC5C7D',
-                markers: '#FFFFFF',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FC5C7D',
                     'b2': '#E36387',
@@ -1187,10 +1187,10 @@ class MusicTheory {
                 }
             },
             watermelon: {
-                background: '#FFE6E6',
-                strings: '#FF5252',
-                frets: '#69F0AE',
-                markers: '#388E3C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF5252',
                     'b2': '#FF6E6E',
@@ -1207,10 +1207,10 @@ class MusicTheory {
                 }
             },
             nordic: {
-                background: '#D0E2F2',
-                strings: '#23395B',
-                frets: '#406E8E',
-                markers: '#8EA8C3',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#23395B',
                     'b2': '#304B71',
@@ -1227,10 +1227,10 @@ class MusicTheory {
                 }
             },
             flamingo: {
-                background: '#FF9A8B',
-                strings: '#FF6A88',
-                frets: '#FF8066',
-                markers: '#FF99AC',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF9A8B',
                     'b2': '#FF938C',
@@ -1247,10 +1247,10 @@ class MusicTheory {
                 }
             },
             sakura: {
-                background: '#FFD9E8',
-                strings: '#FFB3CD',
-                frets: '#FF8EB2',
-                markers: '#FF6997',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFD9E8',
                     'b2': '#FFCEE3',
@@ -1267,10 +1267,10 @@ class MusicTheory {
                 }
             },
             steampunk: {
-                background: '#5C4033',
-                strings: '#DAA520',
-                frets: '#8B4513',
-                markers: '#CD853F',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFD700',
                     'b2': '#EECFA1',
@@ -1287,10 +1287,10 @@ class MusicTheory {
                 }
             },
             galaxy: {
-                background: '#0C0032',
-                strings: '#3500D3',
-                frets: '#190061',
-                markers: '#240090',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#282828',
                     'b2': '#0C0032',
@@ -1307,10 +1307,10 @@ class MusicTheory {
                 }
             },
             citrus: {
-                background: '#F0FFF0',
-                strings: '#FFA500',
-                frets: '#FF8C00',
-                markers: '#FF7F50',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFFF00',
                     'b2': '#FFEF00',
@@ -1327,10 +1327,10 @@ class MusicTheory {
                 }
             },
             peacock: {
-                background: '#F0F8FF',
-                strings: '#00A693',
-                frets: '#2F4F4F',
-                markers: '#48D1CC',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#5F9EA0',
                     'b2': '#66CDAA',
@@ -1348,9 +1348,9 @@ class MusicTheory {
             },
             cotton: {
                 background: '#FFFFFF',
-                strings: '#FFCCCC',
-                frets: '#CCFFCC',
-                markers: '#CCCCFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFCCCC',
                     'b2': '#FFDDCC',
@@ -1367,10 +1367,10 @@ class MusicTheory {
                 }
             },
             aquarium: {
-                background: '#E0FFFF',
-                strings: '#20B2AA',
-                frets: '#5F9EA0',
-                markers: '#008080',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#00FFFF',
                     'b2': '#00E5FF',
@@ -1387,10 +1387,10 @@ class MusicTheory {
                 }
             },
             darkMode: {
-                background: '#121212',
-                strings: '#333333',
-                frets: '#666666',
-                markers: '#AAAAAA',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#BB86FC',
                     'b2': '#3700B3',
@@ -1407,10 +1407,10 @@ class MusicTheory {
                 }
             },
             blueprint: {
-                background: '#002B49',
-                strings: '#00B2CA',
-                frets: '#FFFFFF',
-                markers: '#7DCFB6',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#00B2CA',
                     'b2': '#1DBAB0',
@@ -1427,10 +1427,10 @@ class MusicTheory {
                 }
             },
             candlelight: {
-                background: '#F5D0A9',
-                strings: '#FF8000',
-                frets: '#B45F04',
-                markers: '#8A4B08',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FE9A2E',
                     'b2': '#FE9A2E',
@@ -1447,10 +1447,10 @@ class MusicTheory {
                 }
             },
             nightSky: {
-                background: '#0B0C10',
-                strings: '#1F2833',
-                frets: '#C5C6C7',
-                markers: '#66FCF1',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#45A29E',
                     'b2': '#4AA49B',
@@ -1467,10 +1467,10 @@ class MusicTheory {
                 }
             },
             freshMint: {
-                background: '#F5FFFA',
-                strings: '#40E0D0',
-                frets: '#48D1CC',
-                markers: '#00CED1',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#40E0D0',
                     'b2': '#48D1CC',
@@ -1487,10 +1487,10 @@ class MusicTheory {
                 }
             },
             daylight: {
-                background: '#F7F7F7',
-                strings: '#FFD700',
-                frets: '#FFA500',
-                markers: '#FF8C00',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FDB813',
                     'b2': '#FDC220',
@@ -1507,10 +1507,10 @@ class MusicTheory {
                 }
             },
             aurora: {
-                background: '#120136',
-                strings: '#035AA6',
-                frets: '#40BAD5',
-                markers: '#60DB5C',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#120136',
                     'b2': '#231651',
@@ -1527,10 +1527,10 @@ class MusicTheory {
                 }
             },
             velvet: {
-                background: '#240A34',
-                strings: '#420D5F',
-                frets: '#7B337D',
-                markers: '#C04ABC',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#240A34',
                     'b2': '#341447',
@@ -1547,10 +1547,10 @@ class MusicTheory {
                 }
             },
             mustard: {
-                background: '#FFDB58',
-                strings: '#EEBA30',
-                frets: '#C49102',
-                markers: '#AA7700',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFDB58',
                     'b2': '#FFD24A',
@@ -1567,10 +1567,10 @@ class MusicTheory {
                 }
             },
             vaporwave: {
-                background: '#91D8F7',
-                strings: '#FF71CE',
-                frets: '#01CDFE',
-                markers: '#05FFA1',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF71CE',
                     'b2': '#FF75C6',
@@ -1587,10 +1587,10 @@ class MusicTheory {
                 }
             },
             terra: {
-                background: '#E2DBBE',
-                strings: '#D5A021',
-                frets: '#A47551',
-                markers: '#2E2300',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#E2DBBE',
                     'b2': '#CEBD93',
@@ -1607,10 +1607,10 @@ class MusicTheory {
                 }
             },
             royalty: {
-                background: '#4B0082',
-                strings: '#8A2BE2',
-                frets: '#9370DB',
-                markers: '#BA55D3',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#4B0082',
                     'b2': '#590BA0',
@@ -1627,10 +1627,10 @@ class MusicTheory {
                 }
             },
             rustic: {
-                background: '#F4A460',
-                strings: '#8B4513',
-                frets: '#A52A2A',
-                markers: '#654321',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F4A460',
                     'b2': '#E9A066',
@@ -1647,10 +1647,10 @@ class MusicTheory {
                 }
             },
             jade: {
-                background: '#00A86B',
-                strings: '#007D51',
-                frets: '#006442',
-                markers: '#004D33',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#00A86B',
                     'b2': '#00B06E',
@@ -1667,10 +1667,10 @@ class MusicTheory {
                 }
             },
             summer: {
-                background: '#F4D03F',
-                strings: '#16A085',
-                frets: '#E74C3C',
-                markers: '#8E44AD',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F4D03F',
                     'b2': '#F39C12',
@@ -1687,10 +1687,10 @@ class MusicTheory {
                 }
             },
             winter: {
-                background: '#F1F2F6',
-                strings: '#A5B1C2',
-                frets: '#4B6584',
-                markers: '#0097E6',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#F1F2F6',
                     'b2': '#DFE4EA',
@@ -1707,10 +1707,10 @@ class MusicTheory {
                 }
             },
             orchid: {
-                background: '#DA70D6',
-                strings: '#BA55D3',
-                frets: '#9932CC',
-                markers: '#8B008B',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#DA70D6',
                     'b2': '#DB62D8',
@@ -1727,10 +1727,10 @@ class MusicTheory {
                 }
             },
             orchard: {
-                background: '#DAC292',
-                strings: '#8B4513',
-                frets: '#5D4037',
-                markers: '#3E2723',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FF5252',
                     'b2': '#FF7F50',
@@ -1747,10 +1747,10 @@ class MusicTheory {
                 }
             },
             mahogany: {
-                background: '#C04000',
-                strings: '#FFDEAD',
-                frets: '#8B4513',
-                markers: '#FFF8DC',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFEB3B',
                     'b2': '#FFC107',
@@ -1767,10 +1767,10 @@ class MusicTheory {
                 }
             },
             walnut: {
-                background: '#5D4037',
-                strings: '#D7CCC8',
-                frets: '#3E2723',
-                markers: '#BCAAA4',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFCDD2',
                     'b2': '#F8BBD0',
@@ -1787,10 +1787,10 @@ class MusicTheory {
                 }
             },
             cherry: {
-                background: '#B71C1C',
-                strings: '#FFD54F',
-                frets: '#6D4C41',
-                markers: '#FFF9C4',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#FFFFFF',
                     'b2': '#EEEEEE',
@@ -1807,10 +1807,10 @@ class MusicTheory {
                 }
             },
             oak: {
-                background: '#D7CCC8',
-                strings: '#5D4037',
-                frets: '#4E342E',
-                markers: '#3E2723',
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#EF5350',
                     'b2': '#EC407A',
@@ -1826,11 +1826,11 @@ class MusicTheory {
                     '7': '#D4E157'
                 }
             },
-            maple: {
-                background: '#FFCC80',
-                strings: '#A1887F',
-                frets: '#8D6E63',
-                markers: '#6D4C41',
+            maple: {                
+                background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#EF9A9A',
                     'b2': '#F48FB1',
@@ -1847,10 +1847,10 @@ class MusicTheory {
                 }
             },
             zebrawood: {
-                background: '#E0E0E0',
-                strings: '#616161',
-                frets: '#424242',
-                markers: '#212121',
+                              background: '#FFFFFF',
+                strings: '#888888',
+                frets: '#444444',
+                markers: '#333333',
                 intervals: {
                     '1': '#2E7D32',
                     'b2': '#388E3C',
